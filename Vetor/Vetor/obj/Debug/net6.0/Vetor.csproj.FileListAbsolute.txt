@@ -1,0 +1,15 @@
+D:\Projetos C#\Seção 6\Vetor\Vetor\bin\Debug\net6.0\Vetor.exe
+D:\Projetos C#\Seção 6\Vetor\Vetor\bin\Debug\net6.0\Vetor.deps.json
+D:\Projetos C#\Seção 6\Vetor\Vetor\bin\Debug\net6.0\Vetor.runtimeconfig.json
+D:\Projetos C#\Seção 6\Vetor\Vetor\bin\Debug\net6.0\Vetor.dll
+D:\Projetos C#\Seção 6\Vetor\Vetor\bin\Debug\net6.0\Vetor.pdb
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.csproj.AssemblyReference.cache
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.AssemblyInfoInputs.cache
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.AssemblyInfo.cs
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.dll
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\refint\Vetor.dll
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.pdb
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\Vetor.genruntimeconfig.cache
+D:\Projetos C#\Seção 6\Vetor\Vetor\obj\Debug\net6.0\ref\Vetor.dll
